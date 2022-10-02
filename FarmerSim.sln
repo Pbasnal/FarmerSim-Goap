@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoapFramework", "GoapFramework.csproj", "{e1c2a267-9463-82ca-674a-983bf6dbbd70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoapUnityAi", "GoapUnityAi.csproj", "{e6a2504e-127c-68d2-9637-46d4e09226b3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Utilities", "Library.Utilities.csproj", "{b53784a5-6fa8-7c7f-0cb7-812cb8cede19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainGameEditor", "MainGameEditor.csproj", "{4508f7e3-dba0-c79b-700e-80e45f9a23a7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSystems.GameTime", "GameSystems.GameTime.csproj", "{6a912c7b-db1a-2e47-1c52-cfc76339dcc8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainGame", "MainGame.csproj", "{4ce71013-fcea-9080-bb23-49af9eb99cbd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Logging", "Library.Logging.csproj", "{037a596f-c9ea-5e60-71bb-264813920290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Movement", "Library.Movement.csproj", "{58a5ad33-d71e-1745-6282-754a49e39d32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{e1c2a267-9463-82ca-674a-983bf6dbbd70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e1c2a267-9463-82ca-674a-983bf6dbbd70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e6a2504e-127c-68d2-9637-46d4e09226b3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e6a2504e-127c-68d2-9637-46d4e09226b3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b53784a5-6fa8-7c7f-0cb7-812cb8cede19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b53784a5-6fa8-7c7f-0cb7-812cb8cede19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4508f7e3-dba0-c79b-700e-80e45f9a23a7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4508f7e3-dba0-c79b-700e-80e45f9a23a7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6a912c7b-db1a-2e47-1c52-cfc76339dcc8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6a912c7b-db1a-2e47-1c52-cfc76339dcc8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ce71013-fcea-9080-bb23-49af9eb99cbd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ce71013-fcea-9080-bb23-49af9eb99cbd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037a596f-c9ea-5e60-71bb-264813920290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037a596f-c9ea-5e60-71bb-264813920290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58a5ad33-d71e-1745-6282-754a49e39d32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58a5ad33-d71e-1745-6282-754a49e39d32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

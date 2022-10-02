@@ -1,0 +1,17 @@
+{
+    "name": "GameSystems.GameTime",
+    "rootNamespace": "GameSystems.GameTime",
+    "references": [
+        "GUID:1e64f50df20ee4a72b6a29ae6ee62385",
+        "GUID:faf8e0c7f4892448a93cd50818a71f3a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

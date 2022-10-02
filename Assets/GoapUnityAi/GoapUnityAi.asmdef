@@ -1,0 +1,19 @@
+{
+    "name": "GoapUnityAi",
+    "rootNamespace": "GoapUnityAi",
+    "references": [
+        "GUID:44abe6331613b44179ca7478a8d8189c",
+        "GUID:c172a327a7e634b79934b026137c3c95",
+        "GUID:faf8e0c7f4892448a93cd50818a71f3a",
+        "GUID:b1d3a3ecd615942aea98e14891adb419"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
